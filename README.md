@@ -31,10 +31,13 @@ Ensure you have the following dependencies installed:
 - `keras`
 
 #### You can install them using:
+```bash
 pip install opencv-python numpy dlib scipy pygame keras
-
+```
 #### Run the drowsiness.py script for real-time drowsiness detection.
+```bash
 python drowsiness.py
+```
 
 ### Demo
 Watch the [demo video](https://drive.google.com/file/d/1R6gGEy7FRPeCHvSs0fcTw2JvN_WvjNxK/view?usp=sharing) to see the drowsiness detection system in action.

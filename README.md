@@ -39,9 +39,6 @@ pip install opencv-python numpy dlib scipy pygame keras
 python drowsiness.py
 ```
 
-### Demo
-Watch the [demo video](https://drive.google.com/file/d/1R6gGEy7FRPeCHvSs0fcTw2JvN_WvjNxK/view?usp=sharing) to see the drowsiness detection system in action.
-
 ### Credits
 This project was developed as part of the NullClass Internship.
 
